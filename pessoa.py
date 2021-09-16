@@ -5,6 +5,3 @@ def cadastrar_pessoa(pessoa):
     pessoas = pessoa
 
 
-def create_item(name, price, quantity):
-    global items
-    items.append({'name': name, 'price': price, 'quantity': quantity})
